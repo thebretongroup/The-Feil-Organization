@@ -1,0 +1,290 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+/*and (-webkit-min-device-pixel-ratio: 2)*/ {
+	.megamenu_wrapper,
+	.megamenu_wrapper_full {
+		width:100%;
+}
+	
+}
+
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+/*and (-webkit-min-device-pixel-ratio: 2)*/ {
+
+.clearFloats {
+	clear:both !important;
+}
+body {
+	background:none !important;
+	background-color:transparent !important;
+}
+	
+	.megamenu_wrapper,
+	.megamenu_wrapper_full {
+		width:100%;
+		margin:0 auto;
+		padding:0;
+}
+
+.wp_alerts {
+	background-color: #f0f;
+	width:60%;
+}
+.LogoWrapper {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	margin-bottom:-6px;
+}
+
+.logoWrapperIMG {
+	margin-left:20px;
+}
+
+.pagecontent {
+	width:99%;
+	margin-left:1% !important;
+	padding-bottom:5% !important;
+	margin-bottom:20px !important;
+	
+}
+
+
+.megamenu > li {
+	left:10% !important;
+}
+
+.megamenu > li.menuitem_right {
+	
+	float:right;
+	left:-10% !important;
+	top:-70px;
+	
+}
+#bodyCont {
+	background:url(../img/bg_grid.png) repeat !important;
+	width:100% !important;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px !important;
+	padding:0 !important;
+	overflow:hidden !important;
+	
+}
+
+#welcome_Box, #whatsNewBox, #bm_Box  {
+	width:30% !important;
+	float:left;
+	margin-right:10px !important;
+	margin-bottom:20px !important;
+	overflow:hidden;
+	padding:10px !important;
+	height:350px !important;
+	
+}
+.welcomeHome, .whatsnew_H, .bmbox_H, .bmbox_Pic  {
+	margin-left:10px;
+}
+.bmbox_Link  {
+	margin-left:16px !important;
+	margin-right:40px !important;
+	margin-top:30px !important;
+}
+
+
+.welcome_P, .whatsnew_P {
+	width:95%;
+	margin-right:15px;
+	margin-left:10px;
+}
+.homeboxLinks {
+	margin-left:10px;
+}
+
+/*Slider */
+
+#slider_container {
+	width:100% !important;
+	height:300px !important;
+	
+}
+.callbacks_container .caption {
+	width:98% !important;
+}
+
+.rslides { 
+width:100% !important;
+}
+
+.fws2 {
+	width:100% !important;
+}
+
+/* tabs */
+
+#tabCont {
+	position:relative;
+	width:100% !important;
+}
+
+#tabbed {
+	width:100% !important;
+	margin-left:auto;
+	margin-left:auto;
+}
+
+#tabbed .wrapper {
+	position: relative;
+	float: left;
+	width:25% !important;
+	padding:0 !important;
+	text-align: left;
+	margin-right:5px !important;
+	
+}
+
+.tabsBorder {
+	width:100% !important;
+	border:none !important;
+	margin-right:6px!important;
+	margin-top:0 !important;
+}
+
+
+
+#tabbed label.tabs { 
+	position:relative;
+	
+	}
+/* Carousel */
+#CarouselContainer {
+	width:98% !important;
+	margin-top:55px !important;
+	margin-left:0!important;
+	margin-bottom:15px !important;
+}
+
+.content_slider_wrapper {
+	margin-left:280px !important;
+}
+
+
+.content_slider_text_block_wrap {
+	margin-left:-250px !important;
+}
+
+#CarouselContainer .CarouselH3 {
+	width:250px !important;
+	
+}
+	
+
+/* Footer */
+.feilFooter {
+	overflow:hidden !important;
+	margin-top:-100px !important;
+}
+
+
+
+#footerCont  {
+	width:100% !important;
+	
+}
+
+.copyrightCont {
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.copySubcontainer {
+	width:100% !important;
+}
+.footborder {
+	width:100% !important
+}
+
+.footerUL {
+	width:60% !important;
+	float:left;
+	margin-left:30px;
+}
+
+.secondfooterUL {
+	width:35%;
+	float:left;
+	margin-left:0;
+}
+
+.terms_policy {
+	margin-top:-5px;
+}
+/* */ 
+
+#aboutSideBar {
+	width:25% !important;
+	position:relative;
+	float:left;
+	margin-bottom:20px;
+	margin-top:40px;
+	
+}
+
+#main_content {
+	width:68% !important;
+	margin-left:20px;
+	float:left;
+	margin-bottom:20px;
+	margin-top:40px;
+	
+}
+
+#aboutSideBar li, .searchOptions {
+	width:80%;
+}
+
+
+
+.headerIMG  {
+	width:100% !important;
+	height:150px !important;
+	
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.headerIMG  img {
+	width:100% !important;
+	
+}
+
+.copyright {
+	margin-left:20px;
+}
+.privacyLi {
+	margin-right:20px;
+}
+
+/* Responsive Slide */
+.callbacks_nav {
+	left:15% !important;
+}
+
+.callbacks_nav.next {
+	background-position: right top !important;
+	right:auto !important;
+	left:20% !important;
+}
+
+
+}

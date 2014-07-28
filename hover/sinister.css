@@ -1,0 +1,85 @@
+/*
+--------------------------------------------------------
+
+Item Information
+
+--------------------------------------------------------
+
+Author: IncisiveStudio
+Author UI: http://IncisiveStudio.com
+Item Name: Sinister
+Description: CSS Animation and Effects
+Version: 1.6
+
+-------------------------------------------------------- */
+.ImageWrapper {
+	display: block;
+	overflow: hidden;
+	position: relative;
+	
+	
+	
+}
+
+.ImageWrapper img {
+	padding:5px;
+	border:#d1b77c 1px solid;
+	
+	
+}
+.ImageWrapper .retail-IMG {
+	width:160px !important;
+	height:118px !important;
+
+}
+
+.emptyCanvas img {
+	padding:5px;
+	border:#ffffff 1px solid;
+}
+
+
+
+/*  =============================================
+
+============================================= */
+/*
+Content Transform
+============================================= */
+.ContentWrapperH .ContentH {
+	position: absolute;
+	background: rgba(255, 255, 255, .8);
+	opacity: 0;
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	display: block;
+	top: 0;
+	left: 0;
+	-webkit-transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-ms-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	
+	}
+	
+
+.ContentH img {
+	border:none;
+	width:20px;
+	margin-top:5px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
+.ContentWrapperH:hover .ContentH {opacity: 1;visibility: visible;}
+.ContentWrapperH .ContentH .Content {position: absolute;top: 10%;padding: 0 10px;}
+.ContentWrapperH .ContentH .Content h2 {font: 16px'Arial, Helvetica, sans-serif', Arial, sans-serif;color: #8CA757;padding: 0 0 6px;}
+.ContentWrapperH .ContentH .Content p {font: normal 10px 'Arial, Helvetica, sans-serif';color: #666666;}
+.ContentWrapperH .ContentH .Content .ReadMore {float: right;margin: 16px 0 0;background: #D1CDC3;background: -moz-linear-gradient(top, #D1CDC3 0%, #C9C5BA 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #D1CDC3), color-stop(100%, #C9C5BA));background: -webkit-linear-gradient(top, #D1CDC3 0%, #C9C5BA 100%);background: -o-linear-gradient(top, #D1CDC3 0%, #C9C5BA 100%);background: -ms-linear-gradient(top, #D1CDC3 0%, #C9C5BA 100%);background: linear-gradient(to bottom, #D1CDC3 0%, #C9C5BA 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#D1CDC3', endColorstr='#C9C5BA', GradientType=0);-webkit-border-radius: 2px 2px 2px 2px;-moz-border-radius: 2px 2px 2px 2px;-ms-border-radius: 2px 2px 2px 2px;-o-border-radius: 2px 2px 2px 2px;border-radius: 2px 2px 2px 2px;-webkit-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.08) inset, 0 1px 1px 0 rgba(0, 0, 0, 0.11), 0 0 0 rgba(0, 0, 0, 0);-moz-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.08) inset, 0 1px 1px 0 rgba(0, 0, 0, 0.11), 0 0 0 rgba(0, 0, 0, 0);-ms-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.08) inset, 0 1px 1px 0 rgba(0, 0, 0, 0.11), 0 0 0 rgba(0, 0, 0, 0);-o-box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.08) inset, 0 1px 1px 0 rgba(0, 0, 0, 0.11), 0 0 0 rgba(0, 0, 0, 0);box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.08) inset, 0 1px 1px 0 rgba(0, 0, 0, 0.11), 0 0 0 rgba(0, 0, 0, 0);}
+.ContentWrapperH .ContentH .Content .ReadMore a {color: #757167;padding: 6px 16px;display: block;font: normal 12px'Arial, Helvetica, sans-serif';}
+
+.Content { padding-right:10px !important;}

@@ -1,0 +1,477 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+and (orientation : landscape) { 
+#bodyCont {
+	width:100% !important;
+	background:url(../img/bg_grid.png) repeat !important;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.LogoWrapper {
+	width:98% !important;
+	margin: 10px auto -10px;
+	
+		
+}
+.logoWrapperIMG {
+	width:75%;
+	margin-left:10px;
+}
+
+.wp_Alerts_Iframe {
+	width:98%;
+	height:auto;
+}
+
+
+.bodyCont {
+	width:98%; 
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+/* Navigation */
+.megamenu_light_theme ul li .menuitem_drop,
+.megamenu_light_theme .megamenu li.noactive .menuitem_drop {
+	background-image:none;
+}
+
+
+
+/*Sidebar  */
+
+#aboutSideBar {
+	display:none;
+}
+
+/* */
+.pagecontent {
+	width:98%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+}
+
+#welcome_Box {
+	width:90% !important;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+	padding:1% 5%;
+	margin-top:-10px !important;
+	height:auto !important;
+	
+}
+
+#whatsNewBox {
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	height:auto !important;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+	padding:5%;
+	margin-top:10px !important;
+	
+}
+.whatsnew_H {
+	margin-top:10px !important;
+}
+.whatsnew_P {
+	font-size:22px !important;
+	
+}
+
+#bm_Box {
+	width:90%;
+	height:auto !important;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+	height:auto !important;
+	margin-top:10px !important;
+	
+	
+
+	padding:5%;
+}
+
+.bmbox_H {
+	margin-top:10px !important;
+}
+#bm_Box img {
+	margin-right:50% !important;
+}
+
+.bmbox_Link {
+	
+}
+
+.BM_P {
+	margin-left:0;
+}
+
+
+/* Footer */ 
+
+.feilFooter {
+	margin-top:-20px;
+}
+
+#copyrightCont {
+	
+	padding-top:10px;
+}
+
+#footerCont {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.footerUL {
+	width:90%;
+	float:left;
+	padding:5px;
+	
+	
+}
+.secondfooterUL {
+	width:90%;
+	float:left;
+	padding:5px;
+	margin-left:30px;
+	
+	
+	
+}
+
+.copySubcontainer {
+	width:100%;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.terms_policy {
+	margin-top:-3px;
+}
+
+.footerH3 {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.footborder {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
+/* */ 
+
+.welcome_P {
+	width:100%;
+	margin:0 auto;
+	
+}
+
+#main_content {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+}
+
+.welcomeHome {
+	margin-bottom:20px !important;
+	margin-left:0;
+	
+	
+}
+.copyright {
+	text-align:center;
+	margin-left:10px;
+}
+
+.termsLi {
+	float:left;
+	
+	
+}
+
+.privacyLi {
+	float:right;
+	
+}
+
+.whatsnew_P, .whatsnew_H, .bmbox_H, .bmbox_Pic, .homeboxLinks, .bmbox_Link  {
+	margin-left:0;
+}
+
+.bmbox_Pic {
+	margin-right:20px;
+}
+
+.headerCont {
+	
+	height:50px !important;
+	
+}
+.headerIMG  {
+	width:100% !important;
+	height:auto !important;
+	margin-bottom:-30px !important;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.headerIMG  img {
+	width:100% !important;
+	height:auto !important;
+}
+
+/* Tabs */
+#tabCont {
+	display:none !important
+}
+
+#tabbed {
+	width:98% !important;
+	
+	margin-right:1% !important;
+	margin-top:10px !important;
+	margin-bottom:20px !important;
+	-moz-box-shadow: none !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+}
+
+#tabbed .wrapper {
+	width:90% !important;
+	margin-left:auto;
+	margin-right:auto;
+	float:left;
+}
+
+.tabsBorder {
+	width:90%;
+	border-left:none !important;
+	margin-top:-25px !important;
+	
+}
+
+
+.tabsH3 {
+	border-bottom:none !important;
+	float:left !important;
+	margin-left:-20px !important;
+	
+	margin-right:70%;
+	margin-top:-10px;
+}
+
+.wrapper h4 {float:left !important; margin-right:10px;}
+
+#tabbed label.tabs {
+	width:26% !important;
+	margin-right:5px;
+	margin-left:5px;
+}
+#tabbed img {
+	width:100%;
+}
+
+.wrapper br { display:none !important;}
+.tabsBorder br { display:none !important;}
+.tabsBreak { display:none !important;}
+
+
+/* contact form */
+
+.dropdown_right h2 {
+	border:none !important;
+	width:98% !important;
+	font-size:15px;
+}
+
+.menuitem_right a {
+	color:#ffffff !important;
+}
+
+.menuitem_right a:hover {
+	border:none;
+}
+.menuitem_right span {
+	display:none;
+}
+
+.checkRight {
+	margin-top:0 !important;
+}
+.form_buttons {
+	margin-top:120px !important;
+}
+
+.megamenu .contact_form textarea {
+	padding-left:40px;
+}
+
+
+/* Responsive Slide */
+
+#slider_container {
+	width:100% !important;
+	height:auto !important;		
+}
+
+.rslides { 
+width:100% !important;
+height:260px;
+background: transparent;
+z-index:-1 !important;
+
+}
+
+.callbacks_nav {
+	display:none !important;
+}
+
+.callbacks_container .caption {
+	width:100% !important;
+	bottom:-71px !important;
+	z-index:9999;
+	font-size:14.5px !important;
+	position:absolute;
+	text-align: left !important;
+	padding:2px 5px 15px 5px !important;
+	float:left !important;
+	margin-top:5px !important;
+	height:55px !important;
+	
+}
+
+.rslides img {
+	margin-bottom:1px !important;
+}
+
+.captionSlider {
+	color:#ffffff !important;
+	float:left !important;
+	font-size:14.5px;
+	
+	
+}
+
+.fws2 {
+	width:100% !important;
+}
+
+/* Property Pages */
+
+.Contacth3Titles {
+	width:95%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.clearMobileFloats {
+	display: none;
+}
+
+/**/
+
+#Container {
+		width:100% !important;
+		margin-left:auto;
+		margin-right:auto;
+		
+}
+
+.controls{
+		width:99% !important;
+		margin-left:auto;
+		margin-right:auto;
+}
+
+
+#Container .mix /* Images and their containers */ {
+	margin-right:5px !important;
+	
+}
+
+
+#Container .mix .img-responsive {
+	width:120px;
+	
+}
+
+.ImageWrapper {
+	margin-right:5px;
+}
+
+#Container .mix .retail-IMG {
+	width:120px !important;
+	height:auto !important;
+	
+
+}
+
+
+
+.ContentH img {
+	width:15px;
+	margin-top:3px !important;
+	margin-right:3px !important;
+
+}
+
+.ContentH img:focus {
+	padding:5px;
+	
+}
+
+.emptyDivforCanvas {
+	
+}
+
+/* News Page */
+
+/* Carousel */
+#CarouselContainer {
+	display:none;
+	}
+
+/* Net Leased */ 
+.NetLeasedMap {
+	width:98% !important;
+	margin:0 auto !important;
+	
+}
+
+#landTable {
+	width:98% !important;
+}
+
+
+}
+
+

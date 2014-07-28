@@ -1,0 +1,441 @@
+@charset "UTF-8";
+/* CSS Document */
+@media only screen and (max-width:479px) {
+#bodyCont {
+	width:100% !important;
+	background:url(../img/bg_grid.png) repeat !important;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.LogoWrapper {
+	width:98% !important;
+	margin: 15px auto 0 auto;
+	
+		
+}
+.logoWrapperIMG {
+	width:98%;
+	margin-left:10px;
+}
+
+.wp_Alerts_Iframe {
+	width:98%;
+	height:auto;
+}
+
+
+/* SLIDER */ 
+#slider_container {
+	width:100% !important;
+	height:auto !important;
+}
+
+.fws2 {
+	width:100% !important;
+	
+}
+
+.fws2 .slidePrev {
+	background-size:25px 25px !important;
+	top:40% !important;
+}
+
+.fws2 .slideNext {
+	background-size:25px 25px !important;
+	right:-25px !important;
+	top:40% !important;
+}
+
+
+/* Nav */
+
+.checkLeft {
+	margin-top:-5px !important;	
+}
+
+
+
+.contact_form .form_buttons {
+	margin-top:-10px !important;
+	
+}
+
+input.button {
+	background-color:#d1b77c !important;
+	color:#eeeeee !important;
+	margin-top:10px !important;
+	margin-bottom:10px !important;
+	border:none !important;
+}
+	
+/* Side BAr */
+#aboutSideBar {
+	display:none;
+}
+.pagecontent {
+	width:98%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+}
+#welcome_Box {
+	width:90% !important;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-30px !important;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+	padding:3% 5%;
+	
+}
+
+#whatsNewBox {
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+	padding:1% 5%;
+}
+
+#bm_Box {
+	width:90%;
+	height:auto !important;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-10px !important;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+	padding:5%;
+}
+
+/* Footer */ 
+
+.feilFooter {
+	margin-top:-20px;
+}
+
+#copyrightCont {
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+#footerCont {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.footerUL, .secondfooterUL {
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-10px;
+	padding:5%;
+	
+	
+}
+
+.copySubcontainer {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.footerH3 {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.footborder {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.copyright {
+	text-align:center;
+	margin-left:10px;
+	margin-bottom:5px;
+}
+
+.termsLi {
+	float:left;
+	
+	
+}
+
+.privacyLi {
+	float:right;
+	
+}
+
+
+/*   */
+
+.welcome_P {
+	width:100%;
+	margin:0 auto;
+	
+}
+
+#main_content {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow:none !important;
+	webkit-box-shadow:none !important;
+	moz-box-shadow:none !important;
+}
+
+.welcomeHome {
+	margin-bottom:20px !important;
+	margin-left:0;
+	
+	
+}
+
+
+.whatsnew_P, .whatsnew_H, .bmbox_H, .bmbox_Pic, .homeboxLinks, .bmbox_Link  {
+	margin-left:0;
+}
+
+.bmbox_Pic {
+	margin-right:20px;
+}
+
+.headerCont {
+	
+	height:50px !important;
+	
+}
+.headerIMG  {
+	width:100% !important;
+	height:auto !important;
+	margin-bottom:-30px !important;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.headerIMG  img {
+	width:100% !important;
+	height:auto !important;
+}
+
+.BM_P {
+	margin-left:10px;
+}
+
+/* Tabs */
+.tabsH3 {
+	margin-left: 10px !important;
+	
+}
+
+#tabCont {
+	display:none !important;
+}
+
+/* contact form */
+
+.dropdown_right h2 {
+	border:none !important;
+	width:90% !important;
+	font-size:15px;
+}
+
+.menuitem_right a {
+	color:#ffffff !important;
+}
+
+.menuitem_right a:hover {
+	border:none;
+}
+.menuitem_right span {
+	display:none;
+}
+
+.checkRight {
+	margin-top:0 !important;
+}
+.form_buttons {
+	margin-top:120px !important;
+}
+
+.megamenu .contact_form textarea {
+	padding-left:40px;
+}
+
+
+/* Carousel */ 
+#CarouselContainer {
+	display:none;
+}
+
+
+/* Property Page Galleries */
+#Container {
+		width:100% !important;
+		margin-left:auto;
+		margin-right:auto;
+		position:relative;
+}
+
+.controls{
+		width:99% !important;
+		margin-left:auto;
+		margin-right:auto;
+}
+
+
+#Container .mix /* Images and their containers */ {
+	margin-right:5px !important;
+	
+}
+
+
+#Container .mix .img-responsive {
+	width:95px;
+	
+}
+
+.ImageWrapper {
+	margin-left:5px !important;
+	margin-right:5px !important;
+}
+
+#Container .mix .retail-IMG {
+	width:200px !important;
+	height:auto !important;
+	
+
+}
+
+
+
+
+.ContentH img {
+	width:15px;
+	margin-top:3px !important;
+	margin-right:3px !important;
+
+}
+
+.ContentH img:focus {
+	padding:5px;
+	
+}
+
+
+.emptyCanvas img {
+	display:none !important;
+}
+
+.emptyDivforCanvas {
+	
+}
+
+
+
+/* News Page */
+.newsP {
+	float:left;
+	width:10%;
+	margin-right:20px;
+		
+}
+
+.newsLinkHeader {
+	width:98%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px !important;
+	padding-bottom:100px;
+	margin-top:10px; 
+	
+}
+
+.lastLinkHeader {
+	
+	
+}
+
+.news {
+	float:right;
+	width:70%;
+		
+}
+
+
+.firstNewsP {
+	float:left;
+}
+
+.pdfIcon {
+	float:left;		
+}
+
+.newsLinkIcon {
+	margin-left:0 !important;
+	
+}
+
+.longerMobileHeader {
+	padding-bottom:150px;
+	
+}
+
+.lastPDFIcon {
+	
+}
+
+.newsH4 {
+	
+}
+
+.prImage {
+	
+	
+}
+
+.quotations {
+	
+}
+.news_navigation {
+	
+}
+
+.newsLinks {
+	
+}
+
+.newsNaviIcons {
+	
+}
+
+.nextNewsLink {
+	
+}
+
+.previousNewsLink {
+
+}
+
+.newsDateSpan {
+	
+}
+
+/* land */ 
+#landTable {
+	width:98% !important;
+}
+
+}

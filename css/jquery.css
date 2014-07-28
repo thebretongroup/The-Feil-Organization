@@ -1,0 +1,81 @@
+#CarouselContainer {
+	position: relative;
+	width:1078px;
+	height:120px;
+	margin:10px auto 20px;
+	background:#ffffff;
+	padding:20px 0;
+	-moz-box-shadow:5px 5px 5px #cccccc;
+	-webkit-box-shadow:5px 5px 5px #cccccc;
+	box-shadow:5px 5px 5px #cccccc;	
+	
+}
+
+.main_content_slider_wrapper  /* Container that holds the entire carousel with captions */ {
+	width:1078px !important;
+}
+
+#slider1 .content_slider_wrapper  /* Sub-Container that holds the entire carousel with captions */ {
+	width:1078px !important;
+}
+
+.content_slider_text_block_wrap /* class that holds only the caption */ {
+	width:350px !important;
+	float:left !important;
+	
+}
+
+.circle_slider /* Holds only the carousel */ {
+	width:700px !important;
+	float:left !important;
+}
+
+#sw0, #sw1, #sw2, #sw3, #sw4, #sw5, #sw6  /* Container that holds the captions for the images shown in the carousel */ {
+	
+	
+	
+}
+
+
+#CarouselContainer .CarouselH3 {
+	/* position:relative;
+	top:-110px;
+	color:#d1b77c;
+	margin-left:-300px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight:normal;
+	padding-bottom:2px;
+	border-bottom:#d1b77c 1px solid;
+	width:320px; */
+	color:#d1b77c;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight:normal;
+	padding-bottom:2px;
+	border-bottom:#d1b77c 1px solid;
+	width:320px;
+	margin-left:30px;
+	margin-bottom:-25px; 
+
+}
+
+.content_slider_text_block_wrap h3 {
+	margin-top:10px;
+}
+
+#current_arrows {
+	position: absolute;
+	right: 0;
+	top: 61px;
+}
+
+#current_arrows a {
+	height: 20px;
+	width: 20px;
+	padding: 5px;
+	display: block;
+	margin-bottom: 10px;
+}
+
+
+
+

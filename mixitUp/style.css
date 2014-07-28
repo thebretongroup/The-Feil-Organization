@@ -1,0 +1,134 @@
+
+.controls{
+	width:620px;
+	margin-top:20px;
+	color:#444444;
+  	font-size:12px;
+}
+
+#Container {
+	width:620px;
+	
+}
+
+
+
+button{
+	font-family:Arial, Helvetica, sans-serif;
+	display: inline-block;
+	padding: .4em .8em;
+	border: #d1b77c 1px solid;
+	background:none;
+	color:#666666;
+	font-size: 15px;
+	font-weight: 300;
+	cursor: pointer;
+	margin-bottom:10px;
+	margin-right:10px;
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;	
+	
+}
+
+button.active{
+	background: #d1b77c;
+	color:#ffffff;
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+	-moz-box-shadow:inset 1px 1px 1px rgba(146, 146, 146, .5);
+	-webkit-box-shadow:inset 1px 1px 1px rgba(146, 146, 146, .5);
+	box-shadow:inset 1px 1px 1px rgba(146, 146, 146, .5);
+}
+
+button:focus{
+  outline: 0 none;
+}
+
+button + label{
+  margin-left: 1em;
+}
+
+.container{
+  padding: 5px 0;
+  text-align: justify;
+  font-size: 12px;
+ -webkit-backface-visibility: hidden;
+}
+
+.container:after{
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+.container .mix,
+.container .gap{
+  display: inline-block;
+  
+}
+
+.container .mix{
+  text-align: left;
+  margin-bottom: 5px;
+  display: none;
+}
+
+.container .mix.category-1{
+  /* border-top: 2px solid limegreen; */
+}
+
+.container .mix.category-2{
+  /* border-top: 2px solid yellow; */
+}
+
+.container .mix:after{
+  
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+  padding: 4% 0;
+  
+}
+
+.container .mix:before{
+  content: '';
+  display: inline-block;
+  
+}
+
+
+.addressClass {
+	font-family:Arial, Helvetica, sans-serif !important;
+	font-size:12px !important;
+	line-height:14px !important;
+	font-weight:normal !important;
+	color:#111111 !important;
+}
+
+.clearFilterFloats {
+	clear:both;
+	margin-bottom:10px;
+}
+
+
+
+@media all and (min-width: 420px){
+  .container .mix,
+  .container .gap{
+    /* width: 32%; */
+  }
+}
+
+@media all and (min-width: 640px){
+  .container .mix,
+  .container .gap{
+    /* width: 23.5%; */
+  }
+}
+
+@media only screen and (max-width:479px) {
+	
+
+}

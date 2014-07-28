@@ -1,0 +1,438 @@
+@charset "UTF-8";
+/* CSS Document */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+/*and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio: 2)*/ { 
+	
+.clearFloats {
+	clear:both !important;
+}
+body {
+	background:none !important;
+	background-color:transparent !important;
+}
+	
+	.megamenu_wrapper,
+	.megamenu_wrapper_full {
+		width:100%;
+		margin:0 auto;
+		padding:0;
+}
+
+.wp_alerts {
+	width:60%;
+}
+.LogoWrapper {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	margin-bottom:-6px;
+}
+
+.logoWrapperIMG {
+	margin-left:20px;
+}
+
+
+/*Navigation */
+.menuitem_right a {
+	color:#ffffff !important;
+}
+
+.menuitem_right a:hover {
+	border:none;
+}
+.menuitem_right span {
+	display:none;
+}
+
+	.megamenu_container .megamenu .dropdown_1column, 
+	.megamenu_container .megamenu .dropdown_2columns, 
+	.megamenu_container .megamenu .dropdown_3columns, 
+	.megamenu_container .megamenu .dropdown_4columns,
+	.megamenu_container .megamenu .dropdown_5columns,
+	.megamenu_container .megamenu .dropdown_fullwidth,
+	.megamenu_container .megamenu .dropdown_right  {
+		
+		background:#ffffff;
+	}
+	
+	
+.megamenu p, .megamenu ul, .megamenu li, .megamenu h2, .megamenu h3 {
+	line-height:30px !important;
+}
+
+/*  Navigation Ends */
+
+.pagecontent {
+	width:99%;
+	margin-left:1% !important;
+	padding-bottom:5% !important;
+	
+}
+
+
+.megamenu > li {
+	left:10% !important;
+}
+
+.megamenu > li.menuitem_right {
+	
+	float:right;
+	left:-10% !important;
+	top:-70px;
+	
+}
+#bodyCont {
+	width:100% !important;
+	background:url(../img/bg_grid.png) repeat !important;
+	margin-left:auto;
+	margin-bottom:100px !important;
+	padding:0 !important;
+	overflow:hidden !important;
+}
+
+#welcome_Box {
+	width:32% !important;
+	float:left;
+	margin-right:15px !important;
+	margin-bottom:20px !important;
+	margin-left:5px !important;
+	height:395px !important;
+	padding-left:2%;
+	padding-right:2%;
+
+	
+}
+
+
+#whatsNewBox {
+	width:25.5% !important;
+	float:left;
+	margin-right:15px !important;
+	margin-bottom:20px !important;
+	height:395px !important;
+	padding-left:2%;
+	padding-right:2%;
+	
+}
+
+
+#bm_Box  {
+	width:25% !important;
+	float:left;
+	margin-bottom:20px !important;
+	overflow:hidden;
+	margin-right:5px !important;
+	padding-left:2%;
+	padding-right:2%;
+	height:395px !important;
+		
+}
+
+.welcomeHome, .whatsnew_H, .bmbox_H, .bmbox_Pic  {
+	margin-left:10px;
+	
+}
+.bmbox_Link  {
+	float:left;
+	margin-top:0;
+	margin-left:10px;
+	
+		
+}
+
+
+.welcome_P, .whatsnew_P {
+	width:95%;
+	margin-right:15px;
+	margin-left:10px;
+}
+.homeboxLinks {
+	margin-left:10px;
+}
+
+.bmbox_Pic {
+	width:80%;
+}
+
+/* Carousel */ 
+#CarouselContainer {
+	width:98% !important;
+	overflow: hidden !important;
+	
+}
+
+
+
+.content_slider_wrapper {
+	width:75% !important;
+}
+
+
+.circle_slider_text_wrapper {
+	margin-left:20px !important;
+}
+
+#CarouselContainer .CarouselH3 {
+	margin-left:15px !important;
+}
+
+
+
+/* Tabs */
+
+#tabCont {
+	width:100% !important;
+}
+
+#tabbed {
+	width:98% !important;
+	margin-right:1% !important;
+	
+}
+
+#tabbed .wrapper  {
+	position: relative;
+	float: left;
+	padding:0 !important;
+	width:90% !important;
+	margin-left:0 !important;
+	
+	
+	
+}
+
+.tabsBorder {
+	width:90% !important;
+	border:none !important;
+	margin-top:0 !important;
+		
+	
+	
+	
+		
+}
+
+.tabsH3 {
+	border-bottom:none !important;
+	float:left !important;
+	margin-left:20px !important;
+	margin-top:10px;
+}
+
+.wrapper h4 {float:left !important; margin-right:10px;}
+
+#tabbed label.tabs {
+	margin-right:30px !important;
+	
+}
+
+.wrapper br { display:none !important;}
+
+/* Footer */
+.feilFooter {
+	overflow:hidden !important;
+	margin-top:-100px !important;
+}
+
+
+#footerCont  {
+	width:100% !important;
+	margin-top:20px !important;
+}
+
+
+.footborder {
+	width:100% !important
+}
+
+#copyrightCont {
+	
+	padding-top:10px;
+}
+.footerUL {
+	width:45%;
+	float:left;
+	padding:5px;
+		
+}
+
+.secondfooterUL {
+	width:45%;
+	float:left;
+	padding-left:0;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-left:20px;
+	
+	
+}
+
+.copySubcontainer {
+	width:100%;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.terms_policy {
+	margin-top:-3px;
+}
+
+.footerH3 {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+/* Main Content */
+
+#aboutSideBar {
+	width:25% !important;
+	position:relative;
+	float:left;
+	margin-bottom:20px !important;
+	
+}
+
+#main_content {
+	width:68% !important;
+	margin-left:10px;
+	float:left;
+	margin-bottom:20px !important;
+}
+
+#aboutSideBar li, .searchOptions {
+	width:80%;
+	
+}
+
+.headerCont {
+	
+		
+}
+
+.headerIMG  {
+	width:100% !important;
+	height:150px !important;
+	margin-bottom:20px !important;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.headerIMG  img {
+	width:100% !important;
+	height:auto !important;
+}
+
+.copyright {
+	margin-left:20px;
+}
+.privacyLi {
+	margin-right:20px;
+}
+
+/* Responsive Slide */
+.callbacks_nav {
+	left:2% !important;
+	margin-top:-50px !important;
+}
+
+.callbacks_nav.next {
+	background-position: right top !important;
+	right:auto !important;
+	left:5% !important;
+}
+
+.megamenu_light_theme ul li .menuitem_drop,
+.megamenu_light_theme .megamenu li.noactive .menuitem_drop {
+	background-image:none;
+}
+
+#slider_container {
+	width:100% !important;
+	height:auto !important
+}
+.callbacks_container .caption {
+	width:100% !important;
+	padding-top:10px !important;
+	padding-bottom:10px !important;
+	padding-left:30px !important;
+	padding-right:0px !important;
+	
+}
+
+
+.rslides { 
+width:100% !important;
+}
+
+.fws2 {
+	width:100% !important;
+}
+
+/* property_Search.php  */
+.searchOptions {
+	width:95% !important;
+	font-size:13px !important
+}
+	
+/* Property Pages Gallery */
+.controls {
+	width:95%;
+}
+
+#Container {
+	width:95%;
+}
+
+.Contacth3Titles {
+	width:95%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.emptyCanvas img {
+	display:none !important;
+
+}
+
+.emptyDivforCanvas { display:none !important;}
+
+#landTable {
+	width:98% !important;
+}
+
+.slide_content_wrap {
+	margin-left:20px !important;
+	
+}
+
+.captionSlider, .description {
+	font-size:16px !important;
+}
+
+.NetLeasedMap {
+	width:98% !important;
+	margin:0 auto !important;
+	
+}
+/* current projects */ 
+.currentsLeft img {
+	float:left !important;
+}
+
+
+
+}
+
+
+

@@ -1,0 +1,145 @@
+/*! http://responsiveslides.com v1.54 by @viljamis */
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 1078px;
+  padding: 0;
+  margin: 0 auto;
+  }
+#slider4 {
+	position:relative !important;
+}
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+
+  }
+  
+  
+ .callbacks_container {
+  position: relative;
+  float: left;
+  width: 100%;
+  }
+
+
+.callbacks_nav {
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  top: 40%;
+  left:22%;
+ 
+  opacity: 0;
+  z-index: 3;
+  text-indent: -9999px;
+  overflow: hidden;
+  text-decoration: none;
+  height: 100px;
+  width: 58px;
+  background: transparent url("../img/themes.png") no-repeat left top;
+  margin-top: 10px;
+  }
+
+  .callbacks_nav:active {
+  opacity: 0;
+  }
+  
+  .callbacks_nav:hover {
+  opacity: 1.0;
+  }
+
+.callbacks_nav.next {
+  left: auto;
+  background-position: right top;
+  right:22%;
+  }
+
+.callbacks_container .caption {
+	width:1078px;
+	color:#d1b77c !important;
+	z-index:9999 !important;
+	font-size:18px;
+	display: block;
+  	position: absolute;
+  	z-index: 2;
+  	text-shadow: none;
+	background: rgba(0,0,0, .8);
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	padding: 10px 10px;
+  	margin: 0;
+  	max-width: none;
+	text-align:center;
+
+	
+  
+  } 
+
+@media only screen 
+and (min-width : 2080px) and (max-width : 2180px) {
+	.callbacks_nav {
+		left:9%;
+		}
+		
+		.callbacks_nav.next {
+		right:9%;
+		}
+	
+}
+
+
+
+@media only screen 
+and (min-width : 1280px) and (max-width : 1380px) {
+	.callbacks_nav {
+		left:10%;
+		}
+		
+		.callbacks_nav.next {
+		right:10%;
+		}
+	
+}
+
+@media only screen 
+and (min-width : 980px) and (max-width : 1280px){
+	.callbacks_nav {
+		left:2%;
+		}
+		
+		.callbacks_nav.next {
+		right:2%;
+		}
+}
+
+@media only screen and (min-width : 740px) and (max-width : 980px) {
+	.callbacks_nav {
+		left:1%;
+		}
+		
+		.callbacks_nav.next {
+		right:1%;
+		}
+}
