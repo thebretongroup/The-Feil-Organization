@@ -6,7 +6,8 @@
 <ul class="footerUL">
 <h4 class="footerH4">Headquarters</h4>
 <li><p>7 Penn Plaza, New York, NY 10001</p></li>
-<li><p><strong>T</strong> 212.563.6557</p></li>
+<li class="clear"></li>
+<li class="address"><p><strong>T</strong> 212.563.6557</p></li>
 <li><p><strong>F</strong> 212.563.6657</p></li>
 <li><p><a href="mailto:contact@feilorg.com">info@feilorg.com</a></p></li>
 </ul>

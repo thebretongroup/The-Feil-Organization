@@ -40,6 +40,7 @@ a { text-decoration: none; color: black; }
 .clearFloats { display:none !important;}
 .clearGalleryFloats { display:none !important;}
 .clearrightFloats {display:none !important;}
+#current_arrows {visibility: hidden !important;display:none !important;}
 
 }
 

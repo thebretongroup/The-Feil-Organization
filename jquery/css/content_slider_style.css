@@ -621,3 +621,10 @@ float: left;
 	text-align: center;
 	position: absolute;
 }
+
+
+/* MEDIA  QUERIES FOR MOBILE */
+
+@media screen and (max-width: 1023px) {
+  #current_arrows {visibility: hidden !important;}
+}

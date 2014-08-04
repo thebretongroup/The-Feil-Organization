@@ -180,7 +180,11 @@ width:100% !important;
 
 
 .content_slider_text_block_wrap {
-	margin-left:-250px !important;
+	margin-left:-290px !important;
+}
+
+#current_arrows{
+	display: none;
 }
 
 #CarouselContainer .CarouselH3 {

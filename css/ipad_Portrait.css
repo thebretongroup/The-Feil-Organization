@@ -68,7 +68,7 @@ body {
 /*  Navigation Ends */
 
 .pagecontent {
-	width:99%;
+	width:99% !important;
 	margin-left:1% !important;
 	padding-bottom:5% !important;
 	
