@@ -116,7 +116,7 @@ function print_page() {
     <div id="bodyCont">			
         <section class="pagecontent">
             
-            <?php include("aboutSidebar.php");?>
+            <?php include("availabilitiesSidebar.php");?>
             
             <div id="main_content">
                 <div id="search" class="copyBox">

@@ -97,9 +97,8 @@ FEILORG.COM Site Map
 
 </ul>
 
-<h4 class="h4SiteMap"><a href="site_map" class="terms_Links">Site Map</a></h4>
+<h4 class="h4SiteMap"><a href="#" class="terms_Links">Site Map</a></h4>
 <h4 class="h4SiteMap"><a href="terms" class="terms_Links">Terms of Use</a></h4>
-<h4 class="h4SiteMap"><a href="privacy_policy" class="terms_Links">Privacy Policy</a></h4>
 
 
 

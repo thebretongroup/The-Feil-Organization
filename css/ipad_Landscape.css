@@ -27,16 +27,18 @@ body {
 	background:none !important;
 	background-color:transparent !important;
 }
+
+.BlackBorder {min-width: 100% !important;}
 	
 	.megamenu_wrapper,
 	.megamenu_wrapper_full {
-		width:100%;
+		width:100% !important;
 		margin:0 auto;
 		padding:0;
 }
 
 .wp_alerts {
-	background-color: #f0f;
+	/*background-color: #f0f;*/
 	width:60%;
 }
 .LogoWrapper {
@@ -52,7 +54,7 @@ body {
 }
 
 .pagecontent {
-	width:99%;
+	min-width:99% !important;
 	margin-left:1% !important;
 	padding-bottom:5% !important;
 	margin-bottom:20px !important;
@@ -73,7 +75,7 @@ body {
 }
 #bodyCont {
 	background:url(../img/bg_grid.png) repeat !important;
-	width:100% !important;
+	min-width:100% !important;
 	margin-left:auto;
 	margin-right:auto;
 	margin-bottom:100px !important;
@@ -207,6 +209,7 @@ width:100% !important;
 }
 
 .copyrightCont {
+	width: 100% !important;
 	padding-top:5px;
 	padding-bottom:5px;
 }
@@ -291,4 +294,59 @@ width:100% !important;
 }
 
 
-}
+
+
+
+
+/** Desktops and laptops RESET **/
+  	.pagecontent {min-width:0 !important;}
+  	.BlackBorder {min-width:0 !important;}
+	#copyrightCont {min-width:0 !important;}
+	#bodyCont {min-width:0 !important;}
+	.megamenu_container .megamenu > li,
+	.megamenu_container .megamenu > li:hover,
+	.megamenu_container .megamenu > li.menuitem_right,
+	.megamenu_container .megamenu > li.menuitem_right:hover {
+		width:auto !important;
+	}
+	.megamenu_wrapper {
+		width:95% !important;
+	}
+	.megamenu_wrapper_full {
+		width:100% !important;
+	}
+	.megamenu_wrapper .megamenu_container,
+	.megamenu_wrapper_full .megamenu_container {
+		padding: 0 !important;
+		margin:0 auto !important;
+		float:left !important;
+	}
+	.megamenu li.megamenu_button {display: none !important;}
+	.megamenu_wrapper .megamenu .dropdown_1column, 
+	.megamenu_wrapper .megamenu .dropdown_2columns, 
+	.megamenu_wrapper .megamenu .dropdown_3columns, 
+	.megamenu_wrapper .megamenu .dropdown_4columns,
+	.megamenu_wrapper .megamenu .dropdown_5columns,
+	.megamenu_wrapper .megamenu .dropdown_fullwidth,
+	.megamenu_wrapper_full .megamenu .dropdown_1column, 
+	.megamenu_wrapper_full .megamenu .dropdown_2columns, 
+	.megamenu_wrapper_full .megamenu .dropdown_3columns, 
+	.megamenu_wrapper_full .megamenu .dropdown_4columns,
+	.megamenu_wrapper_full .megamenu .dropdown_5columns,
+	.megamenu_wrapper_full .megamenu .dropdown_fullwidth{
+		min-width: 120px !important;
+		width: auto !important;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+

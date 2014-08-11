@@ -74,6 +74,10 @@ input.button {
 #aboutSideBar {
 	display:none;
 }
+
+#availabilitiesSideBar {
+	display:none;
+}
 .pagecontent {
 	width:98%;
 	margin-left:auto;

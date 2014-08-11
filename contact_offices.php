@@ -54,7 +54,7 @@
     <ul>
     
     <li><strong>New Orleans</strong></li>
-    <li>3301 Veterans Memorial Boulevard, Suite 209</li>
+    <li>3301 Veterans Memorial Boulevard, <br /> Suite 209</li>
     <li>Metairie, Louisiana 70002</li>
     <li>504.835.8000 <span class="contact|">|</span> 504.831.1170 Fax</li>
     <li><a href="http://maps.google.com/maps?hl=en&q=3301+veterans+memorial+blvd+metairie+la&um=1&ie=UTF-8&split=0&gl=us&ei=e6UeSrjnGsOFtgeCyNzsAw&sa=X&oi=geocode_result&ct=title&resnum=1" target="_blank">Area Map</a></li>

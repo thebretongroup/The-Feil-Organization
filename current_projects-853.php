@@ -58,13 +58,20 @@
 <p>New York, NY</p>
 
 <p class="currentsStrong currentsP_marginB"><strong>New Multi-Level Flaship Corner Retail</strong></p>
-<p>Up to 16,616 SF Available</p>
+<p>Up to 16,024 SF Available</p>
+<ul>
+	<li>Ground Floor - 4,180SF</li>
+	<li>Lower Level - 6,394 SF</li>
+	<li class="lastCurrentsLi">Mezzanine - 5,450 SF</li>
+</ul>
+
 <p>Expandable to the 2nd and 3rd Floors</p>
 
 <ul>
-	<li>Up to 126 foot frontage on Broadway and 14th Street</li>
+	<li>Up to 102 foot frontage on Broadway and 14th Street</li>
 	<li>Union Square station in NYC's fourth busiest subway station serving over 34.9 million subway riders per year</li>
-	<li class="lastCurrentsLi">Union Square pedestrian traffic 350,000 daily</li>
+	<li>Union Square pedestrian traffic 350,000 daily</li>
+	<li class="lastCurrentsLi">New M·A·C store opening winter 2014 </li>
 </ul>
 
 <p class="currentP_marginT">For leasing information, contact:</p>

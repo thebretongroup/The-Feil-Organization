@@ -39,7 +39,7 @@
         For over 60 years, The Feil Organization, an established investment, development and management firm based in New York City, has been a powerful force in real estate. We’ve achieved success by adhering to a core group of principles: diversity of holdings to weather fickle financial trends and climates; low debt to keep capital working for us and our clients; and extensive expertise to manage and operate our own properties. These qualities combine to make The Feil Organization one of the nation’s foremost real estate companies.
         Diversity is a key to The Feil Organization’s success. Active in every facet of the industry, we own, develop and manage over 26 million square feet of retail, commercial and industrial properties, over 5,000 residential rental units, as well as hundreds of net leased properties and thousands of acres of undeveloped land across the country.</p>
         
-         <p class="overallP overallP_secondP">To view our corporate brochure, <a href="#">click here.</a></p>
+        <!--<p class="overallP overallP_secondP">To view our corporate brochure, <a href="#">click here.</a></p>-->
     </div> <!-- copyBox closes -->
 
    

@@ -24,7 +24,7 @@
                     <div class="copyBox">
                     <h3 class="h3Titles">Acquisitions</h3>
                            
-                    <p class="overallP">While our corporate philosophy is conservative, our acquisition strategy is aggressive. Our investments encompass nearly every type of real estate, as long as they meet our primary criterion: long- term potential. We acquire only stable, income-producing properties that have value-added upside to bring to the table. Once we’ve identified an appropriate property, we act quickly and decisively. Negotiations are swift. Sellers deal directly with principals. And ready capital is always available for a quick, uncomplicated closing.</p>
+                    <p class="overallP">While our corporate philosophy is conservative, our acquisition strategy is aggressive. Our investments encompass nearly every type of real estate, as long as they meet our primary criterion: long-term potential. We acquire only stable, income-producing properties that have value-added upside to bring to the table. Once we’ve identified an appropriate property, we act quickly and decisively. Negotiations are swift. Sellers deal directly with principals. And ready capital is always available for a quick, uncomplicated closing.</p>
 
 <p class="overallP overallP_secondP">For our acquisition criteria, please contact  <a href="mailto:janderson@feil.org">Jay Anderson</a>, Executive Vice President.</p>
 

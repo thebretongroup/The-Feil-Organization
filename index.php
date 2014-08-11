@@ -37,15 +37,16 @@ real estate, commercial real estate, retail, property, properties, retail proper
 <aside id="whatsNewBox">
 <h3 class="whatsnew_H">What's New</h3>
 <p class="whatsnew_P firstwhatsnewP">
-Feil signs ASSET.TV to 570 Lexington after record 66,000 sq. ft. in 2013 leases. </p>
-<a href="press_release_2_25_14" class="homeboxLinks">READ More</a>
+Feil Announces M·A·C Lease at 853 Broadway. </p>
+<a href="press_release_6_02_14" class="homeboxLinks">READ More</a>
 
 <p class="whatsnew_P">
-The Feil Organization announces <br/>233,000 sq. ft. renewal at Queens Atrium.</p>  
-<a href="press_release_1_22_14" class="homeboxLinks">READ More</a>
+VALPAK® Signs Lease for New Corporate Headquarters</p>
+<a href="press_release_4_09_14" class="homeboxLinks">READ More</a>
 
-<p class="whatsnew_P">PROHEALTH to open urgent care facility at Glen Oaks Shopping Center.</p>
-<a href="press_release_1_17_14" class="homeboxLinks">READ More</a>
+<p class="whatsnew_P">
+Feil signs ASSET.TV to 570 Lexington after record 66,000 sq. ft. in 2013 leases. </p>
+<a href="press_release_2_25_14" class="homeboxLinks">READ More</a>
 </aside>
 
 <aside id="bm_Box">

@@ -26,6 +26,14 @@
                     <div class="copyBox">
                     <h3 class="h3Titles">News</h3>
                     <div class="newsLinkHeader">
+                    <p class="overallP newsP firstNewsP"><span>6.2.14</span></p>
+                    <p class="overallP news"><a href="press_release_6_02_14">Feil Announces M·A·C Lease at 853 Broadway</a></p>
+                    <a href="press_release_6_02_14"><img src="img/link_icon.png" class="pdfIcon" onmouseover="this.src='img/link_icon1.png'" onmouseout="this.src='img/link_icon.png'"></a>
+                    
+                   </div>
+
+
+                    <div class="newsLinkHeader">
                     <p class="overallP newsP firstNewsP"><span>4.9.14</span></p>
                     <p class="overallP news"><a href="press_release_4_09_14">VALPAK® Signs Lease for New Corporate Headquarters</a></p>
                     <a href="press_release_4_09_14"><img src="img/link_icon.png" class="pdfIcon" onmouseover="this.src='img/link_icon1.png'" onmouseout="this.src='img/link_icon.png'"></a>

@@ -594,12 +594,12 @@
                     <div class="ContentH">
                             <div class="Content">
                             <p class="addressClass"><strong class="propertyStrong">Baypoint Commerce <br/>Center</strong><br />
-	877 Executive Center <br/>Drive<br />
+	9600 Koger Boulevard <br/>Suite 100 <br />
                             <span class="OfficeSpan">St. Petersburg</span></p> 
                   
                              
                             <a href="http://www.baypointcommerce.com/" target="_blank" class="infoIcons "><img src="images/website_icon.png"  title="Property Website"></a>
-                            <a href="http://www.baypointcommerce.com/space.php" target="_blank" class="infoIcons"><img src="images/availability.png" title="Availability"></a>
+                            <a href="http://www.baypointcommerce.com/space-availability/" target="_blank" class="infoIcons"><img src="images/availability.png" title="Availability"></a>
                             </div>
                     </div>
             </div>
